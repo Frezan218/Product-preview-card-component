@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/product-preview-card-component/static/js/main.f85a3ab3.js",
-    "static/media/image-product-desktop.jpg": "/product-preview-card-component/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
-    "index.html": "/product-preview-card-component/index.html",
-    "main.f85a3ab3.js.map": "/product-preview-card-component/static/js/main.f85a3ab3.js.map"
+    "main.js": "/Product-preview-card-component/static/js/main.f302950b.js",
+    "static/media/image-product-desktop.jpg": "/Product-preview-card-component/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "index.html": "/Product-preview-card-component/index.html",
+    "main.f302950b.js.map": "/Product-preview-card-component/static/js/main.f302950b.js.map"
   },
   "entrypoints": [
-    "static/js/main.f85a3ab3.js"
+    "static/js/main.f302950b.js"
   ]
 }
