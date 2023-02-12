@@ -44,7 +44,7 @@ export const Card = () => {
       <div style={cardStyle} className="card">
         <div style={{ display: 'flex' }} className="card-inner">
           <div style={{ height: '450px' }} className="card-image">
-            <img style={{ width: '300px' }} src={Image}></img>
+            <img style={{ width: '300px' }} alt="product image" src={Image}></img>
           </div>
           <div
             style={{
