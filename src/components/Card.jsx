@@ -55,7 +55,7 @@ export const Card = () => {
               padding: '35px',
             }}
             className="card-text">
-            <div style={{ opacity: '.7' }} className="preview_section">
+            <div style={{ opacity: '.5' }} className="preview_section">
               P E R F U M E
             </div>
 
